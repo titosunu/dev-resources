@@ -20,6 +20,8 @@ Explore a collection of handpicked links that include UI libraries, tools, and o
 - [Tailgrids](https://tailgrids.com/)
 - [HyperUI](https://www.hyperui.dev/)
 
+<br>
+
 - [Eldora UI](https://www.eldoraui.site/)
 - [Aeternity UI](https://ui.aceternity.com/)
 - [Shadcn UI](https://ui.shadcn.com/)
