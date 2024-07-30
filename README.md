@@ -1,30 +1,26 @@
 <h1 align="center">Resources</h1>
 
-<p align="left">
-
 ## What You'll Find Here
 
 Explore a collection of handpicked links that include UI libraries, tools, and other resources designed to enhance your skills and inspire your projects.
 
 ## Development Challenges
 
-- https://www.codewars.com/
-- https://www.hackerrank.com/
-- https://leetcode.com/
-- https://exercism.org/
+- [Codewars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+- [Exercism](https://exercism.org/)
 
 ## Tailwind UI Libraries
 
-- https://preline.co/
-- https://www.ripple-ui.com/
-- https://flowbite.com/
-- https://daisyui.com/
-- https://tailgrids.com/
-- https://www.hyperui.dev/
--->
-- https://www.eldoraui.site/
-- https://ui.aceternity.com/
-- https://ui.shadcn.com/
-- https://magicui.design/
+- [Preline](https://preline.co/)
+- [Ripple UI](https://www.ripple-ui.com/)
+- [Flowbite](https://flowbite.com/)
+- [DaisyUI](https://daisyui.com/)
+- [Tailgrids](https://tailgrids.com/)
+- [HyperUI](https://www.hyperui.dev/)
 
-</p>
+- [Eldora UI](https://www.eldoraui.site/)
+- [Aeternity UI](https://ui.aceternity.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
+- [Magic UI](https://magicui.design/)
