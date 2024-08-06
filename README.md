@@ -19,6 +19,7 @@ Explore a collection of handpicked links that include UI libraries, tools, and o
 - [DaisyUI](https://daisyui.com/)
 - [Tailgrids](https://tailgrids.com/)
 - [HyperUI](https://www.hyperui.dev/)
+- [Franken UI](https://franken-ui.dev/)
 
 <br>
 
